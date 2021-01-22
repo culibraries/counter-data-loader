@@ -1,7 +1,6 @@
 config/
 jr1reports/
-sql/
-!sql/counter.sql
+data/
 errors.log
 processed.log
 processed.log.backup
